@@ -46,10 +46,6 @@
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".CameraActivityKt"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".CaptureActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
